@@ -1,1 +1,1 @@
-# gama-airbnb
+Protótipo página Airbnb - Gama Academy
